@@ -1,4 +1,4 @@
-<img src="https://icecream-museum.herokuapp.com/imgs/ice%20cream%205.png" alt="icecream_museum">
+<img src="https://icecream-museum.herokuapp.com/imgs/icon.png" alt="icecream_museum">
 
 # icecream_museum
 
