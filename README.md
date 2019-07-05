@@ -2,7 +2,8 @@
 
 # icecream_museum
 
-## Icrecream museum is a sample theme of imagenery icecream museum made with bootstrap
+## Description
+Icrecream museum is a sample theme of imagenery icecream museum made with bootstrap
 
 ## Technology
 
