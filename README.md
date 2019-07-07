@@ -3,7 +3,7 @@
 # icecream_museum
 
 ## Description
-Icrecream museum is a sample theme of imagenery icecream museum made with bootstrap
+Icrecream museum is a sample theme of imagenery icecream museum made with bootstrap, deployed to heroku server
 
 ## Technology
 
@@ -11,6 +11,7 @@ Icrecream museum is a sample theme of imagenery icecream museum made with bootst
 - HTML
 - CSS
 - JavaScript
+- Heroku
 
 ## Link
 Link -> https://icecream-museum.herokuapp.com/
